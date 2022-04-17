@@ -204,7 +204,8 @@ git push --set-upstream origin WorkBranchInstruction
 ``` 
 Копируем данную строку и вводим в поле терминала.
 
-
+После чего в Github появится поле **Pull&request**
+Заполняем комментарием и делимся с автором Репозитория.
 
 
 ## Репозиторий для **pull request**
