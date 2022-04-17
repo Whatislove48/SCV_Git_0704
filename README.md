@@ -200,8 +200,9 @@ clone https://github.com/Whatislove48/SCV_Git_0704.git
 Чтобы предложить нашу версию, используем команду **git рush**
 Git предложит нам следующее
 ```
-
+git push --set-upstream origin WorkBranchInstruction
 ``` 
+Копируем данную строку и вводим в поле терминала.
 
 
 
